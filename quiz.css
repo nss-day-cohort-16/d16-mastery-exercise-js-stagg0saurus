@@ -1,0 +1,41 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: futura;
+	text-align:  center;
+	position: relative;
+	top:  8em;
+}
+
+#head {
+	color: #DEB887;
+}
+
+#white {
+	color:  white;
+}
+
+#trees {
+	color:  #84BE6A;
+}
+
+#inputH {
+	width: 40%;
+}
+
+#inputC {
+	width: 40%;
+}
+
+#red {
+	color:  red;
+}
+
+button {
+	background-color: #84BE6A;
+	border: 2px solid black;
+	border-radius: 1em;
+	font-family: futura;
+	padding:  .7em;
+	font-size: 1.1em;
+}
